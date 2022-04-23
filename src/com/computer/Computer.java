@@ -9,6 +9,8 @@ public class Computer extends Desktop {
 		Computer k=new Computer();
 		k.computerModel1();
 		k.desktopsSize();
+		k.toString();
+		k.equals(k);
 
 	}
 
